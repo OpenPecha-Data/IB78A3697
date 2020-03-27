@@ -1,0 +1,1278 @@
+id: 940fe90e2d4245278537aa6d9e6eec23
+annotation_type: pagination
+revision: '00001'
+annotations:
+- id: 35f4c3cb5b5b4067bbc1bb683be7f752
+  span:
+    start: 0
+    end: 653
+  page_index: 1a
+  page_info: null
+  reference: I1PD103880001
+- id: b5b3c1ded1414b7faf41a0250e73176b
+  span:
+    start: 658
+    end: 904
+  page_index: 2a
+  page_info: null
+  reference: I1PD103880003
+- id: c42a25101f594746bff24c73ecb36447
+  span:
+    start: 909
+    end: 927
+  page_index: 2b
+  page_info: null
+  reference: I1PD103880004
+- id: 3887b75efc9e42c083ce69e90cc70a84
+  span:
+    start: 932
+    end: 1188
+  page_index: 3a
+  page_info: null
+  reference: I1PD103880005
+- id: 54739451f72a44f68baf5d5ad416cce0
+  span:
+    start: 1193
+    end: 2288
+  page_index: 3b
+  page_info: null
+  reference: I1PD103880006
+- id: 4bdcd99b30a843dd99c352d5bc52403c
+  span:
+    start: 2293
+    end: 3707
+  page_index: 4a
+  page_info: null
+  reference: I1PD103880007
+- id: db3f7ab28ff749bbbbdeee8d8946a61c
+  span:
+    start: 3712
+    end: 4561
+  page_index: 4b
+  page_info: null
+  reference: I1PD103880008
+- id: 3ed156191fda4bb6a1856ea5078d00d9
+  span:
+    start: 4566
+    end: 6780
+  page_index: 5a
+  page_info: null
+  reference: I1PD103880009
+- id: 5e2d11c5bd4b46ab88fedeed3a6e6182
+  span:
+    start: 6785
+    end: 8998
+  page_index: 5b
+  page_info: null
+  reference: I1PD103880010
+- id: 615c7a95e202490a85313b1c01edbab8
+  span:
+    start: 9003
+    end: 11167
+  page_index: 6a
+  page_info: null
+  reference: I1PD103880011
+- id: 440f2d5c3b0c4351aaee7313ed390272
+  span:
+    start: 11172
+    end: 13324
+  page_index: 6b
+  page_info: null
+  reference: I1PD103880012
+- id: 0f5d08c514754a0e92c078817a4c3ea7
+  span:
+    start: 13329
+    end: 15542
+  page_index: 7a
+  page_info: null
+  reference: I1PD103880013
+- id: d4ad90fbd6b649bb96a03dc3e3e24d07
+  span:
+    start: 15547
+    end: 17737
+  page_index: 7b
+  page_info: null
+  reference: I1PD103880014
+- id: e568fc5aa0674819930ca66e48d845ff
+  span:
+    start: 17742
+    end: 19911
+  page_index: 8a
+  page_info: null
+  reference: I1PD103880015
+- id: 79053db26b3a4f24ae831a5dad588b95
+  span:
+    start: 19916
+    end: 21847
+  page_index: 8b
+  page_info: null
+  reference: I1PD103880016
+- id: d4af4d762e4247eeb72b0eb27d9ea96a
+  span:
+    start: 21852
+    end: 23818
+  page_index: 9a
+  page_info: null
+  reference: I1PD103880017
+- id: 5c6a18d98bce46b1b69953a8f6273948
+  span:
+    start: 23823
+    end: 26038
+  page_index: 9b
+  page_info: null
+  reference: I1PD103880018
+- id: 440018bdbd114c35ab921b483c9f8211
+  span:
+    start: 26043
+    end: 28289
+  page_index: 10a
+  page_info: null
+  reference: I1PD103880019
+- id: 13842729722641ba8a31971c09b75100
+  span:
+    start: 28294
+    end: 29706
+  page_index: 10b
+  page_info: null
+  reference: I1PD103880020
+- id: 5aadc9f314784ad4a9a58e89b4d75e7f
+  span:
+    start: 29711
+    end: 31859
+  page_index: 11a
+  page_info: null
+  reference: I1PD103880021
+- id: 488c3414bf094a01976b77e56c92ba26
+  span:
+    start: 31864
+    end: 33891
+  page_index: 11b
+  page_info: null
+  reference: I1PD103880022
+- id: 6053f6b8e430488f9f05ac2ce4858847
+  span:
+    start: 33896
+    end: 35884
+  page_index: 12a
+  page_info: null
+  reference: I1PD103880023
+- id: e74432d38b4345b3a555016f9a4078f1
+  span:
+    start: 35889
+    end: 37755
+  page_index: 12b
+  page_info: null
+  reference: I1PD103880024
+- id: abaa56b1babe41199a9a1a296221da20
+  span:
+    start: 37760
+    end: 39852
+  page_index: 13a
+  page_info: null
+  reference: I1PD103880025
+- id: 536d06ef404d4750967d36c833900f27
+  span:
+    start: 39857
+    end: 42002
+  page_index: 13b
+  page_info: null
+  reference: I1PD103880026
+- id: cc5b596f0a294503a2efdad187130d93
+  span:
+    start: 42007
+    end: 44083
+  page_index: 14a
+  page_info: null
+  reference: I1PD103880027
+- id: 53cf90fed8d74299b13f04d7440c985f
+  span:
+    start: 44088
+    end: 45927
+  page_index: 14b
+  page_info: null
+  reference: I1PD103880028
+- id: 3c24347c04e744d4887ad26abee32394
+  span:
+    start: 45932
+    end: 48035
+  page_index: 15a
+  page_info: null
+  reference: I1PD103880029
+- id: 70b3ea129c3743bf8056d4357be8b3da
+  span:
+    start: 48040
+    end: 49047
+  page_index: 15b
+  page_info: null
+  reference: I1PD103880030
+- id: 4885825dfabd4e9c8270863d9ead8b69
+  span:
+    start: 49052
+    end: 50711
+  page_index: 16a
+  page_info: null
+  reference: I1PD103880031
+- id: 02109b757b75481ba83ef1a678ca54ef
+  span:
+    start: 50716
+    end: 52942
+  page_index: 16b
+  page_info: null
+  reference: I1PD103880032
+- id: 6a463541ed154903b97a994d48528aeb
+  span:
+    start: 52947
+    end: 55053
+  page_index: 17a
+  page_info: null
+  reference: I1PD103880033
+- id: 476072e0154f43b78975c59ce74f03cd
+  span:
+    start: 55058
+    end: 56444
+  page_index: 17b
+  page_info: null
+  reference: I1PD103880034
+- id: cc9b773feaf5449e915206c7805369b0
+  span:
+    start: 56449
+    end: 57868
+  page_index: 18a
+  page_info: null
+  reference: I1PD103880035
+- id: ac8f596b965f4576be7d8304b9016dc4
+  span:
+    start: 57873
+    end: 59109
+  page_index: 18b
+  page_info: null
+  reference: I1PD103880036
+- id: 653a088e54be4fdb8043bbe0887bfa63
+  span:
+    start: 59114
+    end: 61192
+  page_index: 19a
+  page_info: null
+  reference: I1PD103880037
+- id: 29901818ccd44d90a01d6f0c3a7019bc
+  span:
+    start: 61197
+    end: 63300
+  page_index: 19b
+  page_info: null
+  reference: I1PD103880038
+- id: 81bcaccbbe6642c1acc76c0da4d924b0
+  span:
+    start: 63305
+    end: 65391
+  page_index: 20a
+  page_info: null
+  reference: I1PD103880039
+- id: 33cf4baa0e394d969ba0a7c6abf01945
+  span:
+    start: 65396
+    end: 67434
+  page_index: 20b
+  page_info: null
+  reference: I1PD103880040
+- id: 59f89978ed9346dd9ed0ef7fa5339c4e
+  span:
+    start: 67439
+    end: 69566
+  page_index: 21a
+  page_info: null
+  reference: I1PD103880041
+- id: d9df7443b58947ba89a5dd4d9f611821
+  span:
+    start: 69571
+    end: 71724
+  page_index: 21b
+  page_info: null
+  reference: I1PD103880042
+- id: 8ff7e3a8dacc44d59d2cdc765fe27d96
+  span:
+    start: 71729
+    end: 73867
+  page_index: 22a
+  page_info: null
+  reference: I1PD103880043
+- id: 14fc188953114f869842354c655fbec4
+  span:
+    start: 73872
+    end: 76038
+  page_index: 22b
+  page_info: null
+  reference: I1PD103880044
+- id: 0ab7e1d54e7146d187c5bbe8cb8c509a
+  span:
+    start: 76043
+    end: 78190
+  page_index: 23a
+  page_info: null
+  reference: I1PD103880045
+- id: 9d18abcfc46e4bda943dc04bccc5bf31
+  span:
+    start: 78195
+    end: 80346
+  page_index: 23b
+  page_info: null
+  reference: I1PD103880046
+- id: 4dfb396eba064b84ae59f1d3e07093cc
+  span:
+    start: 80351
+    end: 81983
+  page_index: 24a
+  page_info: null
+  reference: I1PD103880047
+- id: fa3f12c722234c3f9020ea139a6a96f1
+  span:
+    start: 81988
+    end: 84055
+  page_index: 24b
+  page_info: null
+  reference: I1PD103880048
+- id: 5357d9ce5b7d43fa83a715c4baf78d31
+  span:
+    start: 84060
+    end: 85570
+  page_index: 25a
+  page_info: null
+  reference: I1PD103880049
+- id: afac3297d5314f6099a8ab9b0a059ab9
+  span:
+    start: 85575
+    end: 87283
+  page_index: 25b
+  page_info: null
+  reference: I1PD103880050
+- id: 436afd7e770a47d6a28274f0b9333c5d
+  span:
+    start: 87288
+    end: 89531
+  page_index: 26a
+  page_info: null
+  reference: I1PD103880051
+- id: a3fe555761954ad4b8c883b0e7ab8176
+  span:
+    start: 89536
+    end: 91701
+  page_index: 26b
+  page_info: null
+  reference: I1PD103880052
+- id: 484c9544241d4139ac09ed2d7afaea9d
+  span:
+    start: 91706
+    end: 93030
+  page_index: 27a
+  page_info: null
+  reference: I1PD103880053
+- id: f33cdacf59cb4a93b1e295a6c2838a49
+  span:
+    start: 93035
+    end: 94209
+  page_index: 27b
+  page_info: null
+  reference: I1PD103880054
+- id: 8dd08c9ff27b4a73a00f8949dc155e73
+  span:
+    start: 94214
+    end: 96450
+  page_index: 28a
+  page_info: null
+  reference: I1PD103880055
+- id: 48c5cd269d2b42439d5d4f1be30029ac
+  span:
+    start: 96455
+    end: 98733
+  page_index: 28b
+  page_info: null
+  reference: I1PD103880056
+- id: f4c03ee6be8646df9cdd17066f80308b
+  span:
+    start: 98738
+    end: 100913
+  page_index: 29a
+  page_info: null
+  reference: I1PD103880057
+- id: 393540b01d2c45888f76576e66ab1f45
+  span:
+    start: 100918
+    end: 103131
+  page_index: 29b
+  page_info: null
+  reference: I1PD103880058
+- id: 00a81254c44e445bbd311a9ff66a67e8
+  span:
+    start: 103136
+    end: 105305
+  page_index: 30a
+  page_info: null
+  reference: I1PD103880059
+- id: 925e4e3006f84f079ce7771ab553ed7e
+  span:
+    start: 105310
+    end: 107534
+  page_index: 30b
+  page_info: null
+  reference: I1PD103880060
+- id: 4b2ff0aa8c9944af8e57ae1e72fceb67
+  span:
+    start: 107539
+    end: 109740
+  page_index: 31a
+  page_info: null
+  reference: I1PD103880061
+- id: c40a99a69d14444a83e6827656b6e4d0
+  span:
+    start: 109745
+    end: 111554
+  page_index: 31b
+  page_info: null
+  reference: I1PD103880062
+- id: 75b194f5d28d4a86a3a3238a5ac7a85a
+  span:
+    start: 111559
+    end: 113155
+  page_index: 32a
+  page_info: null
+  reference: I1PD103880063
+- id: e464c7321cb44369968e8db7e34d78ed
+  span:
+    start: 113160
+    end: 115382
+  page_index: 32b
+  page_info: null
+  reference: I1PD103880064
+- id: 56a902901e9b452099e39a2bcd9fac29
+  span:
+    start: 115387
+    end: 117656
+  page_index: 33a
+  page_info: null
+  reference: I1PD103880065
+- id: d317082c3f59438c8b7184b07f9d52c1
+  span:
+    start: 117661
+    end: 119469
+  page_index: 33b
+  page_info: null
+  reference: I1PD103880066
+- id: 665a55ff97bc466693ed1d0f9b5b5846
+  span:
+    start: 119474
+    end: 120473
+  page_index: 34a
+  page_info: null
+  reference: I1PD103880067
+- id: df2dc7f5e52940a4a02de9986facf3b2
+  span:
+    start: 120478
+    end: 121744
+  page_index: 34b
+  page_info: null
+  reference: I1PD103880068
+- id: d3f2a9680f1d400fbf3d405a427063e0
+  span:
+    start: 121749
+    end: 123947
+  page_index: 35a
+  page_info: null
+  reference: I1PD103880069
+- id: 0693fefa2dbb4bdeb8180dbfe612a4ea
+  span:
+    start: 123952
+    end: 126174
+  page_index: 35b
+  page_info: null
+  reference: I1PD103880070
+- id: 9195480d2f69404883e53e9d5f776a1f
+  span:
+    start: 126179
+    end: 128432
+  page_index: 36a
+  page_info: null
+  reference: I1PD103880071
+- id: 0f4e159c2e294e279f41eb0d15c70cf6
+  span:
+    start: 128437
+    end: 130619
+  page_index: 36b
+  page_info: null
+  reference: I1PD103880072
+- id: efa1bbfe909144f290f6ab7778aae1f6
+  span:
+    start: 130624
+    end: 131656
+  page_index: 37a
+  page_info: null
+  reference: I1PD103880073
+- id: d4874cfc9ae84f728ed2109077dfb7c1
+  span:
+    start: 131661
+    end: 133490
+  page_index: 37b
+  page_info: null
+  reference: I1PD103880074
+- id: 7bdd475f32f948b68ca4d85b489bbba2
+  span:
+    start: 133495
+    end: 135708
+  page_index: 38a
+  page_info: null
+  reference: I1PD103880075
+- id: 52439c563776484d83a6db77520b1ecb
+  span:
+    start: 135713
+    end: 137970
+  page_index: 38b
+  page_info: null
+  reference: I1PD103880076
+- id: 86ba7a1c527046038a81787c642fbede
+  span:
+    start: 137975
+    end: 140155
+  page_index: 39a
+  page_info: null
+  reference: I1PD103880077
+- id: 63a1abf64a8b4c8baf0ddab31cb0bfa8
+  span:
+    start: 140160
+    end: 142248
+  page_index: 39b
+  page_info: null
+  reference: I1PD103880078
+- id: 280c37c94a414b6d984ee4fc3218440d
+  span:
+    start: 142253
+    end: 144512
+  page_index: 40a
+  page_info: null
+  reference: I1PD103880079
+- id: 749931e4d5c64d508f0eaf7495111f99
+  span:
+    start: 144517
+    end: 146752
+  page_index: 40b
+  page_info: null
+  reference: I1PD103880080
+- id: 9bef6ac4bb5d4ea6938bd624f73e5c71
+  span:
+    start: 146757
+    end: 148873
+  page_index: 41a
+  page_info: null
+  reference: I1PD103880081
+- id: e61951e9821e4f5ca6237fc822f612ef
+  span:
+    start: 148878
+    end: 151103
+  page_index: 41b
+  page_info: null
+  reference: I1PD103880082
+- id: 2b833c069b474bf5ae25cb3824da74b6
+  span:
+    start: 151108
+    end: 153242
+  page_index: 42a
+  page_info: null
+  reference: I1PD103880083
+- id: bb0c935c86c64e22a922a906888b974b
+  span:
+    start: 153247
+    end: 155409
+  page_index: 42b
+  page_info: null
+  reference: I1PD103880084
+- id: 583738f214eb41d8bc2c005c388c8b6c
+  span:
+    start: 155414
+    end: 157548
+  page_index: 43a
+  page_info: null
+  reference: I1PD103880085
+- id: a2a69650e9fd47a9aea81afa898a8876
+  span:
+    start: 157553
+    end: 159733
+  page_index: 43b
+  page_info: null
+  reference: I1PD103880086
+- id: 377edba0f8844ed39c50a69fb1cc36f7
+  span:
+    start: 159738
+    end: 161887
+  page_index: 44a
+  page_info: null
+  reference: I1PD103880087
+- id: 0db72637f39e41159a40b20e207a1a19
+  span:
+    start: 161892
+    end: 162936
+  page_index: 44b
+  page_info: null
+  reference: I1PD103880088
+- id: 945d087ba27c4c86a4bdfbcacf918a8d
+  span:
+    start: 162941
+    end: 164556
+  page_index: 45a
+  page_info: null
+  reference: I1PD103880089
+- id: de73c31c21744c908977aa272c39063f
+  span:
+    start: 164561
+    end: 166816
+  page_index: 45b
+  page_info: null
+  reference: I1PD103880090
+- id: 81fbf9093c914f9c98955f694ce94497
+  span:
+    start: 166821
+    end: 168548
+  page_index: 46a
+  page_info: null
+  reference: I1PD103880091
+- id: bdbd461892ff4154b2391c0ef1a55bb5
+  span:
+    start: 168553
+    end: 170759
+  page_index: 46b
+  page_info: null
+  reference: I1PD103880092
+- id: f214c2dde377494da20442221028224d
+  span:
+    start: 170764
+    end: 172939
+  page_index: 47a
+  page_info: null
+  reference: I1PD103880093
+- id: 8dc21390cf3740a5ba1ed14b2a18c224
+  span:
+    start: 172944
+    end: 175159
+  page_index: 47b
+  page_info: null
+  reference: I1PD103880094
+- id: 086dc74bc6464ce0bacfda51e75477c7
+  span:
+    start: 175164
+    end: 177398
+  page_index: 48a
+  page_info: null
+  reference: I1PD103880095
+- id: f0882dd30a6d4055aacd02291c350e36
+  span:
+    start: 177403
+    end: 179618
+  page_index: 48b
+  page_info: null
+  reference: I1PD103880096
+- id: e3d602f82e874f71a12ac9ea2265fdce
+  span:
+    start: 179623
+    end: 181820
+  page_index: 49a
+  page_info: null
+  reference: I1PD103880097
+- id: 1346235edfde4aedb3f5b767a40384aa
+  span:
+    start: 181825
+    end: 183967
+  page_index: 49b
+  page_info: null
+  reference: I1PD103880098
+- id: 9f862f33582043598f3e862939370664
+  span:
+    start: 183972
+    end: 186158
+  page_index: 50a
+  page_info: null
+  reference: I1PD103880099
+- id: 51c88beb507f4b19aa97d0af9a927c08
+  span:
+    start: 186163
+    end: 188297
+  page_index: 50b
+  page_info: null
+  reference: I1PD103880100
+- id: f522058cd854431a9227b95341a2e82b
+  span:
+    start: 188302
+    end: 190497
+  page_index: 51a
+  page_info: null
+  reference: I1PD103880101
+- id: 00e2101ab512409b8e831822159a5966
+  span:
+    start: 190502
+    end: 192636
+  page_index: 51b
+  page_info: null
+  reference: I1PD103880102
+- id: a18a44eb99f84a0eac89d9829d3005a1
+  span:
+    start: 192641
+    end: 194852
+  page_index: 52a
+  page_info: null
+  reference: I1PD103880103
+- id: 8d21320dfd5f477aac8bf52104fb90d0
+  span:
+    start: 194857
+    end: 197097
+  page_index: 52b
+  page_info: null
+  reference: I1PD103880104
+- id: 9c47ae2bc76a4dd691a11419da5c4425
+  span:
+    start: 197102
+    end: 199323
+  page_index: 53a
+  page_info: null
+  reference: I1PD103880105
+- id: 4301e60bf6ea425699c9e416a30ec43f
+  span:
+    start: 199328
+    end: 200764
+  page_index: 53b
+  page_info: null
+  reference: I1PD103880106
+- id: 880d5839e0dc457dbc122ca29049c09d
+  span:
+    start: 200769
+    end: 203010
+  page_index: 54a
+  page_info: null
+  reference: I1PD103880107
+- id: 2decb653b88b45029e83fd43e691ac8e
+  span:
+    start: 203015
+    end: 205147
+  page_index: 54b
+  page_info: null
+  reference: I1PD103880108
+- id: 1dcd792b41ec4e1a844aa6082ec6b7f6
+  span:
+    start: 205152
+    end: 207361
+  page_index: 55a
+  page_info: null
+  reference: I1PD103880109
+- id: f530ba43cc7240f99afe1e0e49f5f8e8
+  span:
+    start: 207366
+    end: 209649
+  page_index: 55b
+  page_info: null
+  reference: I1PD103880110
+- id: 4538d2c671874486a87e93ece657799a
+  span:
+    start: 209654
+    end: 211813
+  page_index: 56a
+  page_info: null
+  reference: I1PD103880111
+- id: e20f0df604a34805a4a9b0d0e552f95b
+  span:
+    start: 211818
+    end: 214070
+  page_index: 56b
+  page_info: null
+  reference: I1PD103880112
+- id: c18ded198521411385f15e559a83c0cd
+  span:
+    start: 214075
+    end: 215123
+  page_index: 57a
+  page_info: null
+  reference: I1PD103880113
+- id: 1b2569270b2b44abba930912fa1ef570
+  span:
+    start: 215128
+    end: 216361
+  page_index: 57b
+  page_info: null
+  reference: I1PD103880114
+- id: f4ada312e831432fa75dcc64fc04f4e2
+  span:
+    start: 216366
+    end: 218535
+  page_index: 58a
+  page_info: null
+  reference: I1PD103880115
+- id: 6a376408775f43daa9e86e56a333daff
+  span:
+    start: 218540
+    end: 220726
+  page_index: 58b
+  page_info: null
+  reference: I1PD103880116
+- id: dd734f5a3b214c06bee3ec41d3b16ab7
+  span:
+    start: 220731
+    end: 222931
+  page_index: 59a
+  page_info: null
+  reference: I1PD103880117
+- id: ce204c9bc9af41be970a292cc5a8415d
+  span:
+    start: 222936
+    end: 225138
+  page_index: 59b
+  page_info: null
+  reference: I1PD103880118
+- id: 969c072ab0f34be6820d777dccd6241e
+  span:
+    start: 225143
+    end: 227313
+  page_index: 60a
+  page_info: null
+  reference: I1PD103880119
+- id: 7f8cf17d5d964db3bbb8d0937eec0e04
+  span:
+    start: 227318
+    end: 229472
+  page_index: 60b
+  page_info: null
+  reference: I1PD103880120
+- id: 15987a94c10243cab278aedae876e159
+  span:
+    start: 229477
+    end: 231640
+  page_index: 61a
+  page_info: null
+  reference: I1PD103880121
+- id: a9ce3a9ed21f40f887403d405c277091
+  span:
+    start: 231645
+    end: 233840
+  page_index: 61b
+  page_info: null
+  reference: I1PD103880122
+- id: 47e591fd61a3415a861caa445c897793
+  span:
+    start: 233845
+    end: 236016
+  page_index: 62a
+  page_info: null
+  reference: I1PD103880123
+- id: 574cd8899e5647609f8e5ed485109f73
+  span:
+    start: 236021
+    end: 238170
+  page_index: 62b
+  page_info: null
+  reference: I1PD103880124
+- id: 6c72209678c1454db14cede724b97c07
+  span:
+    start: 238175
+    end: 240259
+  page_index: 63a
+  page_info: null
+  reference: I1PD103880125
+- id: 1a9ab57d23354c6d8dd76c64c3f0fef6
+  span:
+    start: 240264
+    end: 242402
+  page_index: 63b
+  page_info: null
+  reference: I1PD103880126
+- id: 66a25fe61d854b7a8f509fde7c38f357
+  span:
+    start: 242407
+    end: 244529
+  page_index: 64a
+  page_info: null
+  reference: I1PD103880127
+- id: c3bea621fa7f46bf88653d559affdad5
+  span:
+    start: 244534
+    end: 246578
+  page_index: 64b
+  page_info: null
+  reference: I1PD103880128
+- id: 9fc8761f87fa463a8b1551e8e6f07442
+  span:
+    start: 246583
+    end: 248767
+  page_index: 65a
+  page_info: null
+  reference: I1PD103880129
+- id: 6910e58242af43c9a9b48cc030739c6b
+  span:
+    start: 248772
+    end: 250853
+  page_index: 65b
+  page_info: null
+  reference: I1PD103880130
+- id: 6def94e611fe4ffc866d1e41403133d9
+  span:
+    start: 250858
+    end: 252996
+  page_index: 66a
+  page_info: null
+  reference: I1PD103880131
+- id: 00fd4c9acb7c448fbb9f267060b31e57
+  span:
+    start: 253001
+    end: 255152
+  page_index: 66b
+  page_info: null
+  reference: I1PD103880132
+- id: d9d272560895400ca5cbf2206fd32e66
+  span:
+    start: 255157
+    end: 257308
+  page_index: 67a
+  page_info: null
+  reference: I1PD103880133
+- id: f890dcf954c8436594e8ea8819eae58e
+  span:
+    start: 257313
+    end: 259425
+  page_index: 67b
+  page_info: null
+  reference: I1PD103880134
+- id: 55972c27e2b243eb88ac0df0e38146a5
+  span:
+    start: 259430
+    end: 261550
+  page_index: 68a
+  page_info: null
+  reference: I1PD103880135
+- id: a1cdaa3bd8fe411d8b2ad194ee5766da
+  span:
+    start: 261555
+    end: 263713
+  page_index: 68b
+  page_info: null
+  reference: I1PD103880136
+- id: c4a798a916424ecd83bed600f2fee075
+  span:
+    start: 263718
+    end: 265863
+  page_index: 69a
+  page_info: null
+  reference: I1PD103880137
+- id: 7eaf3490012f417eae622ce8238e0ea5
+  span:
+    start: 265868
+    end: 267852
+  page_index: 69b
+  page_info: null
+  reference: I1PD103880138
+- id: aa88574b7e0c4c9c908a610bd2cb48d7
+  span:
+    start: 267857
+    end: 269892
+  page_index: 70a
+  page_info: null
+  reference: I1PD103880139
+- id: 7ec855e392454df4ae1ce40d36302e0d
+  span:
+    start: 269897
+    end: 271947
+  page_index: 70b
+  page_info: null
+  reference: I1PD103880140
+- id: 31f81ea143d645dfb7d87b73f71c4fe4
+  span:
+    start: 271952
+    end: 273863
+  page_index: 71a
+  page_info: null
+  reference: I1PD103880141
+- id: 0e23c4f558e243b4b1315065597caba2
+  span:
+    start: 273868
+    end: 275376
+  page_index: 71b
+  page_info: null
+  reference: I1PD103880142
+- id: 75880bef9e7d4836883dd6571e44aeb2
+  span:
+    start: 275381
+    end: 277403
+  page_index: 72a
+  page_info: null
+  reference: I1PD103880143
+- id: 067a3b6069b44523bba7bba431a60e91
+  span:
+    start: 277408
+    end: 279583
+  page_index: 72b
+  page_info: null
+  reference: I1PD103880144
+- id: 102b01eac49e46d2aa54ddd31964b900
+  span:
+    start: 279588
+    end: 281785
+  page_index: 73a
+  page_info: null
+  reference: I1PD103880145
+- id: 528ee6a48e284c30aaadf45d8c4c1c92
+  span:
+    start: 281790
+    end: 283909
+  page_index: 73b
+  page_info: null
+  reference: I1PD103880146
+- id: a2c60ef14a214102b6cc8d0c7f5e9fbb
+  span:
+    start: 283914
+    end: 286102
+  page_index: 74a
+  page_info: null
+  reference: I1PD103880147
+- id: ef5bf77220e745e28df826167c2b4368
+  span:
+    start: 286107
+    end: 288244
+  page_index: 74b
+  page_info: null
+  reference: I1PD103880148
+- id: 0e4c0fa4a48e4d0baefd6765c33b95d6
+  span:
+    start: 288249
+    end: 290475
+  page_index: 75a
+  page_info: null
+  reference: I1PD103880149
+- id: 43fa553dd56440ab85db799bd6cf7c06
+  span:
+    start: 290480
+    end: 292702
+  page_index: 75b
+  page_info: null
+  reference: I1PD103880150
+- id: 6adf75ac3924419b92b305200d793c4a
+  span:
+    start: 292707
+    end: 293876
+  page_index: 76a
+  page_info: null
+  reference: I1PD103880151
+- id: 081ca512f34d4d82a018a22fb387e31d
+  span:
+    start: 293881
+    end: 295686
+  page_index: 76b
+  page_info: null
+  reference: I1PD103880152
+- id: 70eb82dabce24bfb8f330902459c0b2a
+  span:
+    start: 295691
+    end: 297904
+  page_index: 77a
+  page_info: null
+  reference: I1PD103880153
+- id: 81671a7c09dd40c2894eeaac874da815
+  span:
+    start: 297909
+    end: 300139
+  page_index: 77b
+  page_info: null
+  reference: I1PD103880154
+- id: 37950dd73243437c83df635560ebbcb2
+  span:
+    start: 300144
+    end: 302292
+  page_index: 78a
+  page_info: null
+  reference: I1PD103880155
+- id: 22c08d92dc5c4d6db0d1df48f4351bcd
+  span:
+    start: 302297
+    end: 304218
+  page_index: 78b
+  page_info: null
+  reference: I1PD103880156
+- id: 82a3cb49a36847b0bb16b02f8a42ad8f
+  span:
+    start: 304223
+    end: 305232
+  page_index: 79a
+  page_info: null
+  reference: I1PD103880157
+- id: 36a8150794d04f299342a5257dba5a67
+  span:
+    start: 305237
+    end: 307329
+  page_index: 79b
+  page_info: null
+  reference: I1PD103880158
+- id: 6a1e9b6a4c4e4106966ec97d1730db93
+  span:
+    start: 307334
+    end: 309492
+  page_index: 80a
+  page_info: null
+  reference: I1PD103880159
+- id: c4cbe104983043ada888dd0c418a7393
+  span:
+    start: 309497
+    end: 311357
+  page_index: 80b
+  page_info: null
+  reference: I1PD103880160
+- id: c5fc9633b41343ea9136e7435945e363
+  span:
+    start: 311362
+    end: 313464
+  page_index: 81a
+  page_info: null
+  reference: I1PD103880161
+- id: fd9da646f201431e88817204b23879b4
+  span:
+    start: 313469
+    end: 315627
+  page_index: 81b
+  page_info: null
+  reference: I1PD103880162
+- id: ffb682d7022d4c96b92873a92223ee32
+  span:
+    start: 315632
+    end: 317410
+  page_index: 82a
+  page_info: null
+  reference: I1PD103880163
+- id: 78292a455c99435e889a37e30f3bdf26
+  span:
+    start: 317415
+    end: 319467
+  page_index: 82b
+  page_info: null
+  reference: I1PD103880164
+- id: b42873e7f9094f17b668cd7378eaba9a
+  span:
+    start: 319472
+    end: 321518
+  page_index: 83a
+  page_info: null
+  reference: I1PD103880165
+- id: a1effb0628ac4b12ad3e5891f966f25d
+  span:
+    start: 321523
+    end: 323668
+  page_index: 83b
+  page_info: null
+  reference: I1PD103880166
+- id: df6868cec0ee46fdb03a8f6fe4f28819
+  span:
+    start: 323673
+    end: 325759
+  page_index: 84a
+  page_info: null
+  reference: I1PD103880167
+- id: 32eac8747a484a45b1ab3b9bb8bfa0bc
+  span:
+    start: 325764
+    end: 327526
+  page_index: 84b
+  page_info: null
+  reference: I1PD103880168
+- id: 30cb0cc41ad741a9a1e10e0d7ed45231
+  span:
+    start: 327531
+    end: 329633
+  page_index: 85a
+  page_info: null
+  reference: I1PD103880169
+- id: 41b4074cf2f84357ae139bfe7d8b238c
+  span:
+    start: 329638
+    end: 331163
+  page_index: 85b
+  page_info: null
+  reference: I1PD103880170
+- id: d444183f7009441eb05ee911a527b966
+  span:
+    start: 331168
+    end: 333153
+  page_index: 86a
+  page_info: null
+  reference: I1PD103880171
+- id: 9d6f3f821aaf4f299798fcc2cd727c2e
+  span:
+    start: 333158
+    end: 335324
+  page_index: 86b
+  page_info: null
+  reference: I1PD103880172
+- id: b08dee58400b4838a5e41241308e11b6
+  span:
+    start: 335329
+    end: 336888
+  page_index: 87a
+  page_info: null
+  reference: I1PD103880173
+- id: 20157fcb8f954730bb1fdff88ac4c951
+  span:
+    start: 336893
+    end: 338547
+  page_index: 87b
+  page_info: null
+  reference: I1PD103880174
+- id: 40aa99e58431442da4f280879d0cc1a5
+  span:
+    start: 338552
+    end: 340751
+  page_index: 88a
+  page_info: null
+  reference: I1PD103880175
+- id: 7320660355824ce694054e1b3c37d997
+  span:
+    start: 340756
+    end: 342829
+  page_index: 88b
+  page_info: null
+  reference: I1PD103880176
+- id: 36357201ecf14d0196407ff6baf92298
+  span:
+    start: 342834
+    end: 343976
+  page_index: 89a
+  page_info: null
+  reference: I1PD103880177
+- id: bec1ba05ffc24b9f952ca155d17f17f5
+  span:
+    start: 343981
+    end: 345356
+  page_index: 89b
+  page_info: null
+  reference: I1PD103880178
+- id: 83085fe70bf845d6b46f6aff240b5e63
+  span:
+    start: 345361
+    end: 346158
+  page_index: 90a
+  page_info: null
+  reference: I1PD103880179
+- id: 2cb39bb8c0bb49ab9c2d32f525f90ee6
+  span:
+    start: 346163
+    end: 347652
+  page_index: 90b
+  page_info: null
+  reference: I1PD103880180
+- id: 499afb395b7f4080959a3da3cd981450
+  span:
+    start: 347657
+    end: 348919
+  page_index: 91a
+  page_info: null
+  reference: I1PD103880181
+- id: ffa2e820bb6d4cedb30d4c61b88b2455
+  span:
+    start: 348924
+    end: 349331
+  page_index: 91b
+  page_info: null
+  reference: I1PD103880182
+- id: 2da6e4ceaa114a3eb2e0fb8ff01a9df7
+  span:
+    start: 349336
+    end: 349556
+  page_index: 92a
+  page_info: null
+  reference: I1PD103880183
